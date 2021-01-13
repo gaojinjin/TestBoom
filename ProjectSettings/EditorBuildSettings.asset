@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TestCloudBuild.unity
+    guid: 244e39695ceb1254a817fc83e88162a7
   m_configObjects: {}
